@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Lonny</h1>
 <h3 align="center">Étudiant développeur web @ EFREI (2023–2026) • À la recherche d’une alternance 12 mois (dev web/app) • Paris / Île-de-France</h3>
 
-- 🌱 I’m currently learning **React • Vue.js • Symfony • TypeScript • bonnes pratiques front/back**
+🌱 J’apprends actuellement React • Vue.js • Symfony • TypeScript • et les bonnes pratiques front/back
 
-- 👯 I’m looking to collaborate on **Projets web (front/back) orientés produit, data sport (NBA), et expériences fans**
+👯 Je cherche à collaborer sur des projets web (front/back) orientés produit, data sport (NBA) et expériences fans
 
-- 👨‍💻 All of my projects are available at [github](github)
+👨‍💻 Tous mes projets sont disponibles sur GitHub
 
-- 💬 Ask me about **JavaScript/TypeScript • PHP • React/Vue • Symfony • WordPress • API REST**
+💬 N’hésite pas à me parler de JavaScript / TypeScript • PHP • React / Vue • Symfony • WordPress • API REST
 
-- 📫 How to reach me **charlie-lonny@michely.net**
+📫 Me contacter : charlie-lonny@michely.net
 
-- ⚡ Fun fact **Fan de basket 🏀 et de musique 🎶, je code aussi des projets liés aux stats NBA et au streaming de musique.**
+⚡ Fun fact : Passionné de basket 🏀 et de musique 🎶, je code aussi des projets autour des statistiques NBA et du streaming musical.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
