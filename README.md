@@ -7,9 +7,9 @@
 
 👨‍💻 Tous mes projets sont disponibles sur GitHub
 
-💬 N’hésite pas à me parler de JavaScript / TypeScript • PHP • React / Vue • Symfony • WordPress • API REST
+💬 N’hésite pas à me parler de JavaScript / TypeScript • PHP • React / Vue • Symfony • WordPress • API REST et bien d'autres.
 
-📫 Me contacter : charlie-lonny@michely.net
+📫 Me contacter : charlie-lonny.michely@efrei.net
 
 ⚡ Fun fact : Passionné de basket 🏀 et de musique 🎶, je code aussi des projets autour des statistiques NBA et du streaming musical.
 
