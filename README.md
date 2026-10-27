@@ -1,18 +1,3 @@
-<h1 align="center">Hi 👋, I'm Lonny</h1>
-<h3 align="center">Étudiant développeur web @ EFREI (2023–2026) • À la recherche d’une alternance 12 mois (dev web/app) • Paris / Île-de-France</h3>
-
-🌱 J’apprends actuellement React • Vue.js • Symfony • TypeScript • et les bonnes pratiques front/back
-
-👯 Je cherche à collaborer sur des projets web (front/back) orientés produit, data sport (NBA) et expériences fans
-
-👨‍💻 Tous mes projets sont disponibles sur GitHub
-
-💬 N’hésite pas à me parler de JavaScript / TypeScript • PHP • React / Vue • Symfony • WordPress • API REST et bien d'autres.
-
-📫 Me contacter : charlie-lonny.michely@efrei.net
-
-⚡ Fun fact : Passionné de basket 🏀 et de musique 🎶, je code aussi des projets autour des statistiques NBA et du streaming musical.
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lonny-michely/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-lonny-michely" height="30" width="40" /></a>
